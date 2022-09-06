@@ -1,6 +1,7 @@
 ## Dev Notes
 
-[Docker] ( ./dev_ops/Docker)  
+- [Docker](./dev_ops/Docker)  
+- 
 
 
 
